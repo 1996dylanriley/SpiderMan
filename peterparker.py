@@ -1,1 +1,1 @@
-print "Your friendly neibourhood spiderman"
+print "Your friendly neighbourhood spiderman"
